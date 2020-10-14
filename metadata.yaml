@@ -1,5 +1,5 @@
 _repo: Koning-Hendrik-de-Vierde_63367
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Burgersdijk, L. A. J. (Leendert Alexander Johannes)
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '25415'
     url: http://www.gutenberg.org/2009/agents/25415
     wikipedia: https://nl.wikipedia.org/wiki/Leendert_Burgersdijk
+covers:
+- cover_type: archival
+  image_path: 63367-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Shakespeare, William
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: https://en.wikipedia.org/wiki/William_Shakespeare
 description: Parts 1 and 2.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63367#Koning-Hendrik-de-Vierde
 gutenberg_issued: '2020-10-04'
 gutenberg_type: Text
 identifiers:
